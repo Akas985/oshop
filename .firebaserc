@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "oshop-f3445"
-  }
+    "default": "oshop-f3445",
+    "staging": "oshop-5a5ae"
+  },
+  "targets": {},
+  "etags": {}
 }
